@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+	color: wheat;
+}
+.warp{
+	width: 1000px;
+	margin: 0 auto;
+}
+.text-shadow{
+	color: white;
+	text-shadow: 2px 2px 1px black;
+	text-align: center;
+}
