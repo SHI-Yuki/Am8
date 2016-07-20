@@ -15,5 +15,16 @@ a:hover{
 .text-shadow{
 	color: white;
 	text-shadow: 2px 2px 1px black;
+}
+.overflowhidden{
+	overflow:hidden;
+}
+.text-left{
+	text-align: left;
+}
+.text-center{
 	text-align: center;
+}
+.text-indent-2em{
+	text-indent:2em
 }
